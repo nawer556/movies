@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0B1020" />
+    <meta name="description" content="在 CineLog 閱讀電影與影集的無暴雷介紹、推薦理由，收藏想看的作品。" />
+    <title>作品介紹｜CineLog</title>
+    <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <script defer src="./js/startup.js"></script>
+    <script type="module" src="./js/movie.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">跳到主要內容</a>
+    <header class="site-header">
+      <div class="site-container header-inner">
+        <a class="brand" href="./index.html" aria-label="CineLog 首頁">
+          <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span><span></span></span>
+          <span>Cine<span class="brand-accent">Log</span><small>YOUR MOVIE NOTEBOOK</small></span>
+        </a>
+        <nav class="site-nav" aria-label="主要導覽">
+          <a class="nav-link is-current" href="./index.html">探索作品</a>
+          <a class="nav-link nav-favorites" href="./index.html#favorites">收藏清單 <span id="favorite-count" class="count-badge">0</span></a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="site-container detail-main">
+      <a class="back-link" href="./index.html"><span aria-hidden="true">←</span> 返回探索</a>
+      <div id="storage-notice" class="inline-notice" role="status" hidden></div>
+      <div id="detail-root" aria-live="polite" aria-busy="true"><p class="loading-message">正在載入作品介紹…</p></div>
+      <section id="related-section" class="related-section" aria-labelledby="related-heading" hidden>
+        <div class="section-heading section-heading-small">
+          <div><p class="eyebrow section-eyebrow">KEEP EXPLORING</p><h2 id="related-heading">你可能也喜歡<span class="gold-dot">.</span></h2></div>
+          <a class="text-link" href="./index.html">探索更多 <span aria-hidden="true">↗</span></a>
+        </div>
+        <div id="related-grid" class="movie-grid related-grid"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-container footer-inner">
+        <div><strong>Cine<span class="brand-accent">Log</span></strong><p>把值得一看的故事，好好收藏。</p></div>
+        <p class="footer-disclaimer">本站推薦分數為編輯主觀評分；概念海報為本站原創示意圖，非官方宣傳海報。作品權利歸原權利人所有。</p>
+      </div>
+    </footer>
+  </body>
+</html>

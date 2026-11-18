@@ -1,0 +1,1578 @@
+[
+  {
+    "id": "interstellar",
+    "title": "星際效應",
+    "originalTitle": "Interstellar",
+    "type": "movie",
+    "year": 2014,
+    "genres": [
+      "科幻",
+      "劇情",
+      "冒險"
+    ],
+    "synopsis": "當地球環境日漸惡化，一群太空探索者踏上跨越星系的任務，試圖替人類尋找新的生存可能。離家遠行的代價，讓親情與時間成為同樣艱難的考驗。",
+    "recommendation": "宏大的宇宙想像與細膩的父女情感並行，配樂和影像讓人感受到科幻電影也能如此動人。",
+    "score": 4.9,
+    "poster": "assets/posters/interstellar.svg"
+  },
+  {
+    "id": "inception",
+    "title": "全面啟動",
+    "originalTitle": "Inception",
+    "type": "movie",
+    "year": 2010,
+    "genres": [
+      "科幻",
+      "懸疑",
+      "動作"
+    ],
+    "synopsis": "一名擅長進入他人夢境竊取祕密的專家，接受一項截然不同的任務：在目標心中植入想法。層層交錯的夢境讓團隊難以分辨真實與幻象。",
+    "recommendation": "精巧的多層敘事與令人驚嘆的場面設計，適合喜歡推理、解謎與反覆回味細節的觀眾。",
+    "score": 4.8,
+    "poster": "assets/posters/inception.svg"
+  },
+  {
+    "id": "spirited-away",
+    "title": "神隱少女",
+    "originalTitle": "Spirited Away",
+    "type": "movie",
+    "year": 2001,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "冒險"
+    ],
+    "synopsis": "少女千尋和父母意外闖入神祕世界，家人遭遇異變後，她必須在陌生的澡堂工作，尋找重新回到原來生活的方法。",
+    "recommendation": "瑰麗的想像力與成長主題相互交織，每次重看都能在細節裡發現新的情緒和意義。",
+    "score": 5.0,
+    "poster": "assets/posters/spirited-away.svg"
+  },
+  {
+    "id": "parasite",
+    "title": "寄生上流",
+    "originalTitle": "Parasite",
+    "type": "movie",
+    "year": 2019,
+    "genres": [
+      "劇情",
+      "驚悚"
+    ],
+    "synopsis": "生活拮据的一家人，接連與富裕家庭建立工作關係。看似巧妙的安排逐漸揭露階級距離，以及隱藏在日常之下的緊張情勢。",
+    "recommendation": "以幽默、懸念和銳利的社會觀察帶出令人不安的張力，值得細看空間與人物之間的對照。",
+    "score": 4.8,
+    "poster": "assets/posters/parasite.svg"
+  },
+  {
+    "id": "coco",
+    "title": "可可夜總會",
+    "originalTitle": "Coco",
+    "type": "movie",
+    "year": 2017,
+    "genres": [
+      "動畫",
+      "家庭",
+      "奇幻"
+    ],
+    "synopsis": "熱愛音樂的男孩米高，意外踏入奇妙的亡靈世界。在追尋家族往事的旅程中，他逐漸理解記憶、音樂與親情的連結。",
+    "recommendation": "色彩繽紛又情感真摯，用動人的音樂與故事提醒我們珍惜家人和共同的回憶。",
+    "score": 4.8,
+    "poster": "assets/posters/coco.svg"
+  },
+  {
+    "id": "the-dark-knight",
+    "title": "黑暗騎士",
+    "originalTitle": "The Dark Knight",
+    "type": "movie",
+    "year": 2008,
+    "genres": [
+      "動作",
+      "犯罪",
+      "劇情"
+    ],
+    "synopsis": "蝙蝠俠在高譚市對抗日益猖獗的犯罪，卻遭逢一名以混亂挑戰社會秩序的危險對手，迫使他重新思考正義的界線。",
+    "recommendation": "兼具緊湊動作與道德辯證，即使不熟悉超級英雄電影，也能投入角色之間的心理角力。",
+    "score": 4.9,
+    "poster": "assets/posters/the-dark-knight.svg"
+  },
+  {
+    "id": "dune",
+    "title": "沙丘",
+    "originalTitle": "Dune",
+    "type": "movie",
+    "year": 2021,
+    "genres": [
+      "科幻",
+      "冒險",
+      "劇情"
+    ],
+    "synopsis": "年輕的保羅隨家族前往沙漠星球，捲入珍貴資源與權力爭奪的巨大漩渦。他得在陌生環境中面對自己的命運。",
+    "recommendation": "沉浸式的世界觀、壯闊聲音與視覺美學，特別適合想投入一場史詩級科幻冒險的觀眾。",
+    "score": 4.7,
+    "poster": "assets/posters/dune.svg"
+  },
+  {
+    "id": "about-time",
+    "title": "真愛每一天",
+    "originalTitle": "About Time",
+    "type": "movie",
+    "year": 2013,
+    "genres": [
+      "愛情",
+      "劇情",
+      "喜劇"
+    ],
+    "synopsis": "提姆發現自己擁有回到過去的能力，試著藉此改善愛情與生活，卻慢慢明白，人生的重要時刻不一定能靠重來變得完美。",
+    "recommendation": "在浪漫喜劇的外表下，藏著對日常、家人與時間的溫柔提問，看完很容易想珍惜平凡的一天。",
+    "score": 4.7,
+    "poster": "assets/posters/about-time.svg"
+  },
+  {
+    "id": "breaking-bad",
+    "title": "絕命毒師",
+    "originalTitle": "Breaking Bad",
+    "type": "series",
+    "year": 2008,
+    "genres": [
+      "劇情",
+      "犯罪",
+      "驚悚"
+    ],
+    "synopsis": "一名平凡的高中化學老師，在得知自己罹患重病後，為了家人的財務未來跨入犯罪世界，人生逐步偏離原本的軌道。",
+    "recommendation": "角色轉變細膩、懸念層層堆疊，適合喜歡長篇人物弧線與高張力故事的影迷。",
+    "score": 4.9,
+    "poster": "assets/posters/breaking-bad.svg"
+  },
+  {
+    "id": "stranger-things",
+    "title": "怪奇物語",
+    "originalTitle": "Stranger Things",
+    "type": "series",
+    "year": 2016,
+    "genres": [
+      "科幻",
+      "懸疑",
+      "驚悚"
+    ],
+    "synopsis": "一座小鎮發生男孩失蹤事件，朋友和家人在尋找線索的過程中，逐漸碰上難以解釋的超自然現象與祕密實驗。",
+    "recommendation": "融合復古氛圍、友誼與奇幻懸疑，節奏鮮明又有討喜的角色群，追劇非常有帶入感。",
+    "score": 4.7,
+    "poster": "assets/posters/stranger-things.svg"
+  },
+  {
+    "id": "shawshank-redemption",
+    "title": "刺激1995",
+    "originalTitle": "The Shawshank Redemption",
+    "type": "movie",
+    "year": 1994,
+    "genres": [
+      "劇情",
+      "犯罪"
+    ],
+    "synopsis": "銀行家安迪被判入獄，在嚴酷的監獄環境中，以智慧與友情尋找心靈自由。",
+    "recommendation": "以克制的敘事談希望與尊嚴，適合喜歡細膩人物故事的觀眾。",
+    "score": 4.9,
+    "poster": ""
+  },
+  {
+    "id": "the-godfather",
+    "title": "教父",
+    "originalTitle": "The Godfather",
+    "type": "movie",
+    "year": 1972,
+    "genres": [
+      "劇情",
+      "犯罪"
+    ],
+    "synopsis": "義大利裔黑幫家族面臨權力交替，原本遠離家業的么子逐漸捲入其中。",
+    "recommendation": "家族情感與權力算計並重，人物塑造堪稱經典。",
+    "score": 4.9,
+    "poster": ""
+  },
+  {
+    "id": "the-godfather-part-ii",
+    "title": "教父II",
+    "originalTitle": "The Godfather Part II",
+    "type": "movie",
+    "year": 1974,
+    "genres": [
+      "劇情",
+      "犯罪"
+    ],
+    "synopsis": "故事交織兩個時代，分別呈現柯里昂家族的崛起，以及後繼者面對權力的代價。",
+    "recommendation": "雙線敘事帶來深刻的命運對照，值得與首集連看。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "schindlers-list",
+    "title": "辛德勒的名單",
+    "originalTitle": "Schindler's List",
+    "type": "movie",
+    "year": 1993,
+    "genres": [
+      "劇情",
+      "歷史"
+    ],
+    "synopsis": "二戰期間，一名德國商人在親眼見到迫害後，逐漸決定利用工廠保護猶太工人。",
+    "recommendation": "以沉重但充滿人性的角度凝視歷史，觀後餘韻強烈。",
+    "score": 4.9,
+    "poster": ""
+  },
+  {
+    "id": "forrest-gump",
+    "title": "阿甘正傳",
+    "originalTitle": "Forrest Gump",
+    "type": "movie",
+    "year": 1994,
+    "genres": [
+      "劇情",
+      "愛情"
+    ],
+    "synopsis": "性格單純的阿甘經歷美國數十年的社會變遷，也始終惦記著生命中重要的人。",
+    "recommendation": "幽默與感傷交錯，適合想看溫暖人生故事的時候。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "pulp-fiction",
+    "title": "黑色追緝令",
+    "originalTitle": "Pulp Fiction",
+    "type": "movie",
+    "year": 1994,
+    "genres": [
+      "犯罪",
+      "劇情",
+      "喜劇"
+    ],
+    "synopsis": "數段洛杉磯犯罪世界的故事彼此交織，人物在荒誕的意外中相遇。",
+    "recommendation": "非線性敘事與鮮明對白極具風格，適合喜歡黑色幽默的人。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "fight-club",
+    "title": "鬥陣俱樂部",
+    "originalTitle": "Fight Club",
+    "type": "movie",
+    "year": 1999,
+    "genres": [
+      "劇情",
+      "驚悚"
+    ],
+    "synopsis": "一名對生活麻木的上班族認識神祕男子後，捲入逐漸失控的地下社群。",
+    "recommendation": "以尖銳的黑色寓言探問消費文化與自我認同。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "the-matrix",
+    "title": "駭客任務",
+    "originalTitle": "The Matrix",
+    "type": "movie",
+    "year": 1999,
+    "genres": [
+      "科幻",
+      "動作"
+    ],
+    "synopsis": "駭客尼歐發現熟悉的世界可能只是表象，必須在驚人的真相中做出選擇。",
+    "recommendation": "動作設計與哲學提問相得益彰，是科幻迷的經典片單。",
+    "score": 4.9,
+    "poster": ""
+  },
+  {
+    "id": "se7en",
+    "title": "火線追緝令",
+    "originalTitle": "Se7en",
+    "type": "movie",
+    "year": 1995,
+    "genres": [
+      "犯罪",
+      "懸疑",
+      "驚悚"
+    ],
+    "synopsis": "兩名個性不同的警探追查一連串帶有宗教象徵的命案，城市氣氛愈發壓抑。",
+    "recommendation": "陰鬱視覺和縝密懸念讓觀眾一路屏息。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "the-silence-of-the-lambs",
+    "title": "沉默的羔羊",
+    "originalTitle": "The Silence of the Lambs",
+    "type": "movie",
+    "year": 1991,
+    "genres": [
+      "犯罪",
+      "驚悚"
+    ],
+    "synopsis": "年輕的聯邦調查局實習探員為追捕連環殺手，尋求一名高智商囚犯的協助。",
+    "recommendation": "精準的心理攻防營造極強張力，角色令人難忘。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "titanic",
+    "title": "鐵達尼號",
+    "originalTitle": "Titanic",
+    "type": "movie",
+    "year": 1997,
+    "genres": [
+      "愛情",
+      "劇情"
+    ],
+    "synopsis": "豪華郵輪的首航上，來自不同階層的兩個年輕人相遇並相戀。",
+    "recommendation": "宏大災難場面與愛情細節結合，情緒渲染力十足。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "saving-private-ryan",
+    "title": "搶救雷恩大兵",
+    "originalTitle": "Saving Private Ryan",
+    "type": "movie",
+    "year": 1998,
+    "genres": [
+      "戰爭",
+      "劇情",
+      "動作"
+    ],
+    "synopsis": "諾曼第登陸後，一支美軍小隊深入戰區尋找一名失聯士兵。",
+    "recommendation": "以逼真的戰場氛圍與人性抉擇令人重新思考戰爭代價。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "good-will-hunting",
+    "title": "心靈捕手",
+    "originalTitle": "Good Will Hunting",
+    "type": "movie",
+    "year": 1997,
+    "genres": [
+      "劇情"
+    ],
+    "synopsis": "一名天賦驚人的麻省青年，遇見願意傾聽他內心困惑的心理諮商師。",
+    "recommendation": "對話真摯、角色關係動人，特別適合面對人生選擇時觀看。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "the-truman-show",
+    "title": "楚門的世界",
+    "originalTitle": "The Truman Show",
+    "type": "movie",
+    "year": 1998,
+    "genres": [
+      "劇情",
+      "科幻",
+      "喜劇"
+    ],
+    "synopsis": "楚門從小過著平凡生活，卻逐漸發現身邊世界出現不合常理的破綻。",
+    "recommendation": "用娛樂性十足的設定探討自由、觀看與真實。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "the-green-mile",
+    "title": "綠色奇蹟",
+    "originalTitle": "The Green Mile",
+    "type": "movie",
+    "year": 1999,
+    "genres": [
+      "劇情",
+      "奇幻",
+      "犯罪"
+    ],
+    "synopsis": "死囚牢房的獄警遇見一名看似具有神祕力量的囚犯，人生觀因此改變。",
+    "recommendation": "溫柔與沉重並存，帶出關於善意和偏見的深刻思索。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "the-sixth-sense",
+    "title": "靈異第六感",
+    "originalTitle": "The Sixth Sense",
+    "type": "movie",
+    "year": 1999,
+    "genres": [
+      "懸疑",
+      "驚悚",
+      "劇情"
+    ],
+    "synopsis": "兒童心理學家試圖幫助一名聲稱看見亡者的小男孩，逐步接近他的恐懼。",
+    "recommendation": "氣氛經營細膩，適合喜歡心理懸疑與情感層次的觀眾。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "the-lion-king",
+    "title": "獅子王",
+    "originalTitle": "The Lion King",
+    "type": "movie",
+    "year": 1994,
+    "genres": [
+      "動畫",
+      "冒險",
+      "家庭"
+    ],
+    "synopsis": "年輕獅子辛巴離開家園後，在旅途中面對失落與成長的課題。",
+    "recommendation": "歌曲、角色與成長主題相互輝映，適合全家同看。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "toy-story",
+    "title": "玩具總動員",
+    "originalTitle": "Toy Story",
+    "type": "movie",
+    "year": 1995,
+    "genres": [
+      "動畫",
+      "喜劇",
+      "家庭"
+    ],
+    "synopsis": "一群玩具在主人不注意時擁有自己的生活，新玩具的出現卻打亂原有秩序。",
+    "recommendation": "創意十足又富有友情主題，是經得起重看的動畫。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "beauty-and-the-beast",
+    "title": "美女與野獸",
+    "originalTitle": "Beauty and the Beast",
+    "type": "movie",
+    "year": 1991,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "愛情"
+    ],
+    "synopsis": "勇敢的貝兒來到受詛咒的城堡，逐漸認識外表嚇人的城堡主人。",
+    "recommendation": "經典歌曲與童話氛圍，讓故事在浪漫之外也談理解。",
+    "score": 4.6,
+    "poster": ""
+  },
+  {
+    "id": "jurassic-park",
+    "title": "侏羅紀公園",
+    "originalTitle": "Jurassic Park",
+    "type": "movie",
+    "year": 1993,
+    "genres": [
+      "科幻",
+      "冒險",
+      "驚悚"
+    ],
+    "synopsis": "一座重現史前恐龍的主題樂園，因安全系統失控而陷入危機。",
+    "recommendation": "實體特效與緊張節奏歷久不衰，非常適合大銀幕感的冒險。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "back-to-the-future",
+    "title": "回到未來",
+    "originalTitle": "Back to the Future",
+    "type": "movie",
+    "year": 1985,
+    "genres": [
+      "科幻",
+      "喜劇",
+      "冒險"
+    ],
+    "synopsis": "少年馬蒂意外搭乘時光車回到過去，必須設法修正可能改變未來的事件。",
+    "recommendation": "節奏明快、伏筆巧妙，輕鬆又充滿想像力。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "star-wars-a-new-hope",
+    "title": "星際大戰四部曲：曙光乍現",
+    "originalTitle": "Star Wars",
+    "type": "movie",
+    "year": 1977,
+    "genres": [
+      "科幻",
+      "冒險",
+      "動作"
+    ],
+    "synopsis": "年輕的路克踏上星際旅程，加入反抗勢力對抗強大的銀河帝國。",
+    "recommendation": "開創性的世界觀與英雄旅程讓太空冒險歷久彌新。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "star-wars-empire-strikes-back",
+    "title": "星際大戰五部曲：帝國大反擊",
+    "originalTitle": "The Empire Strikes Back",
+    "type": "movie",
+    "year": 1980,
+    "genres": [
+      "科幻",
+      "冒險",
+      "動作"
+    ],
+    "synopsis": "反抗軍面臨帝國的追擊，路克則接受訓練以迎接更艱難的挑戰。",
+    "recommendation": "角色關係與冒險規模更進一步，適合接續首集觀賞。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "raiders-of-the-lost-ark",
+    "title": "法櫃奇兵",
+    "originalTitle": "Raiders of the Lost Ark",
+    "type": "movie",
+    "year": 1981,
+    "genres": [
+      "動作",
+      "冒險"
+    ],
+    "synopsis": "考古學家印第安納瓊斯四處奔走，試圖在敵對勢力之前找到傳說文物。",
+    "recommendation": "謎團、動作與幽默比例恰好，是爽快冒險片代表。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "et-the-extra-terrestrial",
+    "title": "E.T.外星人",
+    "originalTitle": "E.T. the Extra-Terrestrial",
+    "type": "movie",
+    "year": 1982,
+    "genres": [
+      "科幻",
+      "家庭",
+      "冒險"
+    ],
+    "synopsis": "一名男孩意外遇見落單的外星訪客，兩人建立跨越物種的友情。",
+    "recommendation": "用童真的視角描繪陪伴與告別，溫柔而有力量。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "terminator-2",
+    "title": "魔鬼終結者2",
+    "originalTitle": "Terminator 2: Judgment Day",
+    "type": "movie",
+    "year": 1991,
+    "genres": [
+      "科幻",
+      "動作",
+      "驚悚"
+    ],
+    "synopsis": "來自未來的機器人捲入保護少年約翰的任務，阻止更危險的追殺者。",
+    "recommendation": "動作場面與情感弧線兼備，是科幻續集經典。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "alien",
+    "title": "異形",
+    "originalTitle": "Alien",
+    "type": "movie",
+    "year": 1979,
+    "genres": [
+      "科幻",
+      "恐怖",
+      "驚悚"
+    ],
+    "synopsis": "遠航太空船接收到神祕訊號，船員們隨後面臨無法預料的威脅。",
+    "recommendation": "封閉空間與聲音設計令人窒息，科幻恐怖氣氛一流。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "aliens",
+    "title": "異形2",
+    "originalTitle": "Aliens",
+    "type": "movie",
+    "year": 1986,
+    "genres": [
+      "科幻",
+      "動作",
+      "驚悚"
+    ],
+    "synopsis": "倖存者蕾普莉再次面對外星生物威脅，隨部隊展開高風險救援。",
+    "recommendation": "將前作的恐怖轉化成強勁動作節奏，仍保有角色深度。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "blade-runner",
+    "title": "銀翼殺手",
+    "originalTitle": "Blade Runner",
+    "type": "movie",
+    "year": 1982,
+    "genres": [
+      "科幻",
+      "懸疑",
+      "劇情"
+    ],
+    "synopsis": "未來都市中，一名警探追查仿生人，並思考人與造物的界線。",
+    "recommendation": "霓虹美學與存在命題相互呼應，適合慢慢品味。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "2001-a-space-odyssey",
+    "title": "2001太空漫遊",
+    "originalTitle": "2001: A Space Odyssey",
+    "type": "movie",
+    "year": 1968,
+    "genres": [
+      "科幻",
+      "冒險",
+      "懸疑"
+    ],
+    "synopsis": "神祕巨石與太空任務連結起人類進化的巨大謎團，人工智慧也參與其中。",
+    "recommendation": "視覺和聲音充滿實驗精神，適合喜歡哲學科幻的人。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "casablanca",
+    "title": "北非諜影",
+    "originalTitle": "Casablanca",
+    "type": "movie",
+    "year": 1942,
+    "genres": [
+      "愛情",
+      "戰爭",
+      "劇情"
+    ],
+    "synopsis": "二戰期間的卡薩布蘭卡，一名酒館老闆與昔日戀人意外重逢。",
+    "recommendation": "愛情與時代抉擇交會，經典台詞與情緒仍動人。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "citizen-kane",
+    "title": "大國民",
+    "originalTitle": "Citizen Kane",
+    "type": "movie",
+    "year": 1941,
+    "genres": [
+      "劇情",
+      "懸疑"
+    ],
+    "synopsis": "一名權勢人物過世後，記者從不同證詞拼湊他的一生與秘密。",
+    "recommendation": "鏡頭語言與敘事視角極具開創性，適合研究電影表現形式。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "12-angry-men",
+    "title": "十二怒漢",
+    "originalTitle": "12 Angry Men",
+    "type": "movie",
+    "year": 1957,
+    "genres": [
+      "劇情",
+      "犯罪"
+    ],
+    "synopsis": "一群陪審員在密室討論案件，原本看似明確的判斷逐漸受到質疑。",
+    "recommendation": "幾乎只靠對白就建立強烈張力，是思辨與說服的佳作。",
+    "score": 4.9,
+    "poster": ""
+  },
+  {
+    "id": "psycho",
+    "title": "驚魂記",
+    "originalTitle": "Psycho",
+    "type": "movie",
+    "year": 1960,
+    "genres": [
+      "懸疑",
+      "恐怖",
+      "驚悚"
+    ],
+    "synopsis": "一名女子在旅途中入住偏僻汽車旅館，周遭氣氛愈來愈詭異。",
+    "recommendation": "巧妙運用剪接與聲音，對驚悚電影影響深遠。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "the-shining",
+    "title": "鬼店",
+    "originalTitle": "The Shining",
+    "type": "movie",
+    "year": 1980,
+    "genres": [
+      "恐怖",
+      "懸疑"
+    ],
+    "synopsis": "作家帶家人前往冬季封閉的山中飯店工作，孤立環境慢慢侵蝕家人關係。",
+    "recommendation": "空間構圖與不安氣氛極具辨識度，適合心理恐怖片愛好者。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "the-exorcist",
+    "title": "大法師",
+    "originalTitle": "The Exorcist",
+    "type": "movie",
+    "year": 1973,
+    "genres": [
+      "恐怖",
+      "劇情"
+    ],
+    "synopsis": "母親為女兒接連出現的異常現象求助，最終尋找宗教人士協助。",
+    "recommendation": "沉重的家庭焦慮與超自然恐懼交疊，氣氛相當強烈。",
+    "score": 4.6,
+    "poster": ""
+  },
+  {
+    "id": "jaws",
+    "title": "大白鯊",
+    "originalTitle": "Jaws",
+    "type": "movie",
+    "year": 1975,
+    "genres": [
+      "驚悚",
+      "冒險"
+    ],
+    "synopsis": "海濱小鎮面臨鯊魚襲擊危機，警長與夥伴決定出海追查。",
+    "recommendation": "即使鮮少直接露出威脅，也能用節奏製造巨大壓力。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "rocky",
+    "title": "洛基",
+    "originalTitle": "Rocky",
+    "type": "movie",
+    "year": 1976,
+    "genres": [
+      "劇情",
+      "運動",
+      "愛情"
+    ],
+    "synopsis": "默默無名的拳擊手獲得挑戰重量級冠軍的機會，開始全力準備。",
+    "recommendation": "與其說是勝負故事，更像一封寫給努力與自尊的情書。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "taxi-driver",
+    "title": "計程車司機",
+    "originalTitle": "Taxi Driver",
+    "type": "movie",
+    "year": 1976,
+    "genres": [
+      "劇情",
+      "犯罪",
+      "驚悚"
+    ],
+    "synopsis": "孤獨的退伍軍人在紐約開計程車，逐漸對城市與自身生活感到疏離。",
+    "recommendation": "強烈主觀視角描繪都市孤獨，適合喜歡人物心理研究的人。",
+    "score": 4.6,
+    "poster": ""
+  },
+  {
+    "id": "apocalypse-now",
+    "title": "現代啟示錄",
+    "originalTitle": "Apocalypse Now",
+    "type": "movie",
+    "year": 1979,
+    "genres": [
+      "戰爭",
+      "劇情"
+    ],
+    "synopsis": "越戰期間，一名軍官沿河深入戰區，執行尋找另一名軍官的任務。",
+    "recommendation": "影像與聲音震撼，帶來近乎迷幻的戰爭反思。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "cinema-paradiso",
+    "title": "新天堂樂園",
+    "originalTitle": "Cinema Paradiso",
+    "type": "movie",
+    "year": 1988,
+    "genres": [
+      "劇情",
+      "愛情"
+    ],
+    "synopsis": "一名電影人回憶童年時與小鎮放映師的情誼，以及電影帶給他的啟蒙。",
+    "recommendation": "充滿對電影與成長的深情，特別推薦給熱愛看電影的人。",
+    "score": 4.9,
+    "poster": ""
+  },
+  {
+    "id": "life-is-beautiful",
+    "title": "美麗人生",
+    "originalTitle": "Life Is Beautiful",
+    "type": "movie",
+    "year": 1997,
+    "genres": [
+      "劇情",
+      "戰爭",
+      "喜劇"
+    ],
+    "synopsis": "一名父親在戰爭迫害之中，努力用想像力保護孩子的童心。",
+    "recommendation": "幽默與悲傷的對比格外動人，值得帶著耐心欣賞。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "amelie",
+    "title": "艾蜜莉的異想世界",
+    "originalTitle": "Amélie",
+    "type": "movie",
+    "year": 2001,
+    "genres": [
+      "愛情",
+      "喜劇",
+      "劇情"
+    ],
+    "synopsis": "巴黎女孩艾蜜莉熱衷用小小善意改變他人的生活，也開始思考自己的幸福。",
+    "recommendation": "繽紛構圖與奇想幽默讓平凡日常閃閃發亮。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "city-of-god",
+    "title": "無法無天",
+    "originalTitle": "City of God",
+    "type": "movie",
+    "year": 2002,
+    "genres": [
+      "犯罪",
+      "劇情"
+    ],
+    "synopsis": "兩名在里約貧民區長大的少年走上不同道路，鏡頭記錄社區暴力與生活。",
+    "recommendation": "快速剪接與鮮明群像呈現沉重議題，能引發長久思考。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "oldboy",
+    "title": "原罪犯",
+    "originalTitle": "Oldboy",
+    "type": "movie",
+    "year": 2003,
+    "genres": [
+      "驚悚",
+      "懸疑",
+      "動作"
+    ],
+    "synopsis": "男子被不明人士囚禁多年後突然獲釋，開始追查被囚原因。",
+    "recommendation": "強烈風格與層層疑團很有衝擊力，適合成熟觀眾。",
+    "score": 4.6,
+    "poster": ""
+  },
+  {
+    "id": "memories-of-murder",
+    "title": "殺人回憶",
+    "originalTitle": "Memories of Murder",
+    "type": "movie",
+    "year": 2003,
+    "genres": [
+      "犯罪",
+      "懸疑",
+      "劇情"
+    ],
+    "synopsis": "南韓鄉間發生多起命案，警方在有限條件下追查犯人。",
+    "recommendation": "以細膩寫實與黑色幽默呈現無力感，後勁很強。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "the-handmaiden",
+    "title": "下女的誘惑",
+    "originalTitle": "The Handmaiden",
+    "type": "movie",
+    "year": 2016,
+    "genres": [
+      "懸疑",
+      "劇情",
+      "愛情"
+    ],
+    "synopsis": "一名女子受雇進入富家小姐的宅邸，隨著關係發展逐步揭開不同人的盤算。",
+    "recommendation": "多重視角與精緻美術充滿魅力，適合喜歡層層翻轉的敘事。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "train-to-busan",
+    "title": "屍速列車",
+    "originalTitle": "Train to Busan",
+    "type": "movie",
+    "year": 2016,
+    "genres": [
+      "動作",
+      "恐怖",
+      "驚悚"
+    ],
+    "synopsis": "突如其來的感染危機在行駛中的列車爆發，乘客努力尋找生存機會。",
+    "recommendation": "封閉場景中的節奏快且情感濃烈，驚悚和人性兼具。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "your-name",
+    "title": "你的名字。",
+    "originalTitle": "Your Name.",
+    "type": "movie",
+    "year": 2016,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "愛情"
+    ],
+    "synopsis": "身處不同地方的兩名高中生，開始經歷無法解釋的夢境與生活交錯。",
+    "recommendation": "動人配樂和畫面讓青春與命運的故事格外浪漫。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "weathering-with-you",
+    "title": "天氣之子",
+    "originalTitle": "Weathering with You",
+    "type": "movie",
+    "year": 2019,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "愛情"
+    ],
+    "synopsis": "少年來到東京遇見能短暫改變天氣的女孩，兩人共同面對生活的選擇。",
+    "recommendation": "雨景與城市光影非常漂亮，故事保有青春特有的衝動。",
+    "score": 4.5,
+    "poster": ""
+  },
+  {
+    "id": "suzume",
+    "title": "鈴芽之旅",
+    "originalTitle": "Suzume",
+    "type": "movie",
+    "year": 2022,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "冒險"
+    ],
+    "synopsis": "少女鈴芽與神祕青年踏上關閉異常門扉的旅途，逐漸理解災難留下的傷痕。",
+    "recommendation": "以奇幻公路冒險承載失去與療癒，視覺表現亮眼。",
+    "score": 4.6,
+    "poster": ""
+  },
+  {
+    "id": "princess-mononoke",
+    "title": "魔法公主",
+    "originalTitle": "Princess Mononoke",
+    "type": "movie",
+    "year": 1997,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "冒險"
+    ],
+    "synopsis": "少年阿席達卡走入森林與人類聚落的衝突，見證自然和生存之間的拉扯。",
+    "recommendation": "不把任何一方簡化為壞人，環境與人性主題耐人尋味。",
+    "score": 4.9,
+    "poster": ""
+  },
+  {
+    "id": "my-neighbor-totoro",
+    "title": "龍貓",
+    "originalTitle": "My Neighbor Totoro",
+    "type": "movie",
+    "year": 1988,
+    "genres": [
+      "動畫",
+      "家庭",
+      "奇幻"
+    ],
+    "synopsis": "兩姊妹搬到鄉間新家，在大自然中遇見奇妙的森林生物。",
+    "recommendation": "單純的童趣與細節帶來安定感，很適合放鬆時重看。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "howls-moving-castle",
+    "title": "霍爾的移動城堡",
+    "originalTitle": "Howl's Moving Castle",
+    "type": "movie",
+    "year": 2004,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "愛情"
+    ],
+    "synopsis": "少女蘇菲受到魔法影響後，來到會移動的城堡，與神祕魔法師相識。",
+    "recommendation": "奇想美術與人物情感很有魅力，值得沉浸在魔法世界。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "castle-in-the-sky",
+    "title": "天空之城",
+    "originalTitle": "Castle in the Sky",
+    "type": "movie",
+    "year": 1986,
+    "genres": [
+      "動畫",
+      "冒險",
+      "奇幻"
+    ],
+    "synopsis": "少年帕祖與少女希達因神祕寶石踏上尋找傳說空中城堡的冒險。",
+    "recommendation": "節奏飽滿、充滿探索樂趣，是經典的奇幻冒險作品。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "kikis-delivery-service",
+    "title": "魔女宅急便",
+    "originalTitle": "Kiki's Delivery Service",
+    "type": "movie",
+    "year": 1989,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "家庭"
+    ],
+    "synopsis": "年輕魔女琪琪來到海邊城市獨立生活，靠飛行送貨尋找自己的位置。",
+    "recommendation": "用溫柔筆觸描寫自我懷疑與重新出發。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "grave-of-the-fireflies",
+    "title": "螢火蟲之墓",
+    "originalTitle": "Grave of the Fireflies",
+    "type": "movie",
+    "year": 1988,
+    "genres": [
+      "動畫",
+      "戰爭",
+      "劇情"
+    ],
+    "synopsis": "戰時日本的兄妹在失去家庭依靠後，努力維持彼此的生活。",
+    "recommendation": "深刻刻畫戰爭對平民的影響，情緒沉重卻值得一看。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "ponyo",
+    "title": "崖上的波妞",
+    "originalTitle": "Ponyo",
+    "type": "movie",
+    "year": 2008,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "家庭"
+    ],
+    "synopsis": "來自海中的小女孩波妞與人類男孩宗介相遇，帶來奇妙的海洋事件。",
+    "recommendation": "水彩般的流動感與純真想像，適合親子共享。",
+    "score": 4.5,
+    "poster": ""
+  },
+  {
+    "id": "whisper-of-the-heart",
+    "title": "心之谷",
+    "originalTitle": "Whisper of the Heart",
+    "type": "movie",
+    "year": 1995,
+    "genres": [
+      "動畫",
+      "愛情",
+      "劇情"
+    ],
+    "synopsis": "喜歡閱讀的少女雫，在探索借書線索時，逐漸找到自己的創作夢想。",
+    "recommendation": "青春的不確定和努力被描寫得很真誠。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "the-wind-rises",
+    "title": "風起",
+    "originalTitle": "The Wind Rises",
+    "type": "movie",
+    "year": 2013,
+    "genres": [
+      "動畫",
+      "劇情",
+      "愛情"
+    ],
+    "synopsis": "熱愛飛機設計的青年堀越二郎，在動盪時代追逐夢想與愛情。",
+    "recommendation": "細膩呈現理想與時代的矛盾，沉靜而耐人尋味。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "wall-e",
+    "title": "瓦力",
+    "originalTitle": "WALL·E",
+    "type": "movie",
+    "year": 2008,
+    "genres": [
+      "動畫",
+      "科幻",
+      "愛情"
+    ],
+    "synopsis": "遙遠未來，孤獨的清潔機器人在荒廢地球上遇見新夥伴。",
+    "recommendation": "前段幾乎不用對白就能說故事，浪漫又具有環保省思。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "up",
+    "title": "天外奇蹟",
+    "originalTitle": "Up",
+    "type": "movie",
+    "year": 2009,
+    "genres": [
+      "動畫",
+      "冒險",
+      "家庭"
+    ],
+    "synopsis": "一位老人用氣球讓房子飛上天空，與意外同行的小男孩展開旅程。",
+    "recommendation": "幽默冒險背後有珍惜回憶、重新出發的溫暖訊息。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "inside-out",
+    "title": "腦筋急轉彎",
+    "originalTitle": "Inside Out",
+    "type": "movie",
+    "year": 2015,
+    "genres": [
+      "動畫",
+      "家庭",
+      "喜劇"
+    ],
+    "synopsis": "女孩萊莉搬家後，腦中的不同情緒忙著協助她適應新生活。",
+    "recommendation": "把抽象情緒變成活潑角色，大人小孩都能得到共鳴。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "inside-out-2",
+    "title": "腦筋急轉彎2",
+    "originalTitle": "Inside Out 2",
+    "type": "movie",
+    "year": 2024,
+    "genres": [
+      "動畫",
+      "家庭",
+      "喜劇"
+    ],
+    "synopsis": "進入青春期的萊莉迎來新的情緒，內心指揮中心再度變得熱鬧。",
+    "recommendation": "用容易理解的比喻呈現青春期焦慮，貼近現代生活。",
+    "score": 4.6,
+    "poster": ""
+  },
+  {
+    "id": "soul",
+    "title": "靈魂急轉彎",
+    "originalTitle": "Soul",
+    "type": "movie",
+    "year": 2020,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "劇情"
+    ],
+    "synopsis": "音樂老師意外踏入靈魂世界，在新的旅程中重新理解生命的價值。",
+    "recommendation": "沒有說教感地談日常幸福，適合正在尋找生活方向的人。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "ratatouille",
+    "title": "料理鼠王",
+    "originalTitle": "Ratatouille",
+    "type": "movie",
+    "year": 2007,
+    "genres": [
+      "動畫",
+      "喜劇",
+      "家庭"
+    ],
+    "synopsis": "熱愛烹飪的小老鼠想在巴黎廚房實現夢想，遇見一名不擅廚藝的年輕人。",
+    "recommendation": "美食場景討喜，也傳達天賦不該受刻板印象限制。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "finding-nemo",
+    "title": "海底總動員",
+    "originalTitle": "Finding Nemo",
+    "type": "movie",
+    "year": 2003,
+    "genres": [
+      "動畫",
+      "冒險",
+      "家庭"
+    ],
+    "synopsis": "膽小的爸爸馬林跨越海洋尋找失蹤的兒子尼莫，途中結識各種海洋夥伴。",
+    "recommendation": "海底世界色彩繽紛，關於信任和親情的故事很動人。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "the-incredibles",
+    "title": "超人特攻隊",
+    "originalTitle": "The Incredibles",
+    "type": "movie",
+    "year": 2004,
+    "genres": [
+      "動畫",
+      "動作",
+      "家庭"
+    ],
+    "synopsis": "隱藏超能力的一家人試著過普通生活，卻又被新的危機召喚。",
+    "recommendation": "把超級英雄冒險與家庭相處融合得活潑有趣。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "zootopia",
+    "title": "動物方城市",
+    "originalTitle": "Zootopia",
+    "type": "movie",
+    "year": 2016,
+    "genres": [
+      "動畫",
+      "喜劇",
+      "懸疑"
+    ],
+    "synopsis": "兔子警官哈茱蒂在動物大都會追查失蹤案，意外與狐狸搭檔合作。",
+    "recommendation": "節奏好看又能談偏見，適合不同年齡層。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "frozen",
+    "title": "冰雪奇緣",
+    "originalTitle": "Frozen",
+    "type": "movie",
+    "year": 2013,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "家庭"
+    ],
+    "synopsis": "兩位公主姊妹在魔法引發的危機中，必須重新理解彼此的心意。",
+    "recommendation": "音樂洗腦、角色鮮明，讓手足情感成為童話核心。",
+    "score": 4.6,
+    "poster": ""
+  },
+  {
+    "id": "moana",
+    "title": "海洋奇緣",
+    "originalTitle": "Moana",
+    "type": "movie",
+    "year": 2016,
+    "genres": [
+      "動畫",
+      "冒險",
+      "家庭"
+    ],
+    "synopsis": "海島少女莫娜為了族人的未來，跨越大海尋找傳說中的半神。",
+    "recommendation": "有活力的歌曲與海洋冒險，展現勇氣和自我認同。",
+    "score": 4.6,
+    "poster": ""
+  },
+  {
+    "id": "encanto",
+    "title": "魔法滿屋",
+    "originalTitle": "Encanto",
+    "type": "movie",
+    "year": 2021,
+    "genres": [
+      "動畫",
+      "奇幻",
+      "家庭"
+    ],
+    "synopsis": "擁有奇妙能力的一家人住在魔法屋中，唯一沒有能力的女孩開始發現家庭裂痕。",
+    "recommendation": "熱鬧歌舞背後有對家庭期待與自我價值的溫柔理解。",
+    "score": 4.6,
+    "poster": ""
+  },
+  {
+    "id": "into-the-spider-verse",
+    "title": "蜘蛛人：新宇宙",
+    "originalTitle": "Spider-Man: Into the Spider-Verse",
+    "type": "movie",
+    "year": 2018,
+    "genres": [
+      "動畫",
+      "動作",
+      "科幻"
+    ],
+    "synopsis": "少年邁爾斯意外獲得超能力，並與來自不同宇宙的蜘蛛人共同面對危機。",
+    "recommendation": "大膽的漫畫風格動畫與成長故事創造全新視覺體驗。",
+    "score": 4.9,
+    "poster": ""
+  },
+  {
+    "id": "across-the-spider-verse",
+    "title": "蜘蛛人：穿越新宇宙",
+    "originalTitle": "Spider-Man: Across the Spider-Verse",
+    "type": "movie",
+    "year": 2023,
+    "genres": [
+      "動畫",
+      "動作",
+      "科幻"
+    ],
+    "synopsis": "邁爾斯進入更多平行宇宙，與各種蜘蛛人碰面，也遇見艱難選擇。",
+    "recommendation": "風格多變的動畫令人驚艷，角色衝突也更成熟。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "avengers-endgame",
+    "title": "復仇者聯盟：終局之戰",
+    "originalTitle": "Avengers: Endgame",
+    "type": "movie",
+    "year": 2019,
+    "genres": [
+      "動作",
+      "科幻",
+      "冒險"
+    ],
+    "synopsis": "經歷巨大挫敗的英雄們再度集結，尋找扭轉局面的最後機會。",
+    "recommendation": "對長期追看漫威電影的觀眾來說，情感回收格外有力。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "iron-man",
+    "title": "鋼鐵人",
+    "originalTitle": "Iron Man",
+    "type": "movie",
+    "year": 2008,
+    "genres": [
+      "動作",
+      "科幻",
+      "冒險"
+    ],
+    "synopsis": "富豪工程師東尼史塔克在危機中打造裝甲，開始重新思考自己的責任。",
+    "recommendation": "主角魅力與科技動作場面兼具，適合超級英雄入門。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "black-panther",
+    "title": "黑豹",
+    "originalTitle": "Black Panther",
+    "type": "movie",
+    "year": 2018,
+    "genres": [
+      "動作",
+      "科幻",
+      "冒險"
+    ],
+    "synopsis": "瓦干達的新任國王面對王位挑戰，也必須決定國家與世界的關係。",
+    "recommendation": "設計美學鮮明，在英雄故事中融入文化與價值辯論。",
+    "score": 4.6,
+    "poster": ""
+  },
+  {
+    "id": "guardians-of-the-galaxy",
+    "title": "星際異攻隊",
+    "originalTitle": "Guardians of the Galaxy",
+    "type": "movie",
+    "year": 2014,
+    "genres": [
+      "科幻",
+      "動作",
+      "喜劇"
+    ],
+    "synopsis": "一群個性古怪的太空邊緣人因神祕物品聚在一起，意外成為夥伴。",
+    "recommendation": "歡樂配樂與團隊互動非常有趣，娛樂性十足。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "top-gun-maverick",
+    "title": "捍衛戰士：獨行俠",
+    "originalTitle": "Top Gun: Maverick",
+    "type": "movie",
+    "year": 2022,
+    "genres": [
+      "動作",
+      "劇情"
+    ],
+    "synopsis": "資深飛行員重返訓練基地，帶領年輕飛官準備高風險任務。",
+    "recommendation": "飛行鏡頭刺激，也透過師徒與過往遺憾增加情感厚度。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "mad-max-fury-road",
+    "title": "瘋狂麥斯：憤怒道",
+    "originalTitle": "Mad Max: Fury Road",
+    "type": "movie",
+    "year": 2015,
+    "genres": [
+      "動作",
+      "科幻",
+      "冒險"
+    ],
+    "synopsis": "末日荒漠中，倖存者和反抗者在連綿追逐戰裡爭取自由。",
+    "recommendation": "幾乎不停歇的動作調度與美術色彩，視覺衝擊強烈。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "john-wick",
+    "title": "捍衛任務",
+    "originalTitle": "John Wick",
+    "type": "movie",
+    "year": 2014,
+    "genres": [
+      "動作",
+      "犯罪",
+      "驚悚"
+    ],
+    "synopsis": "退隱殺手約翰因私人悲劇重新踏入危險的地下世界。",
+    "recommendation": "俐落的打鬥編排與獨特世界觀，適合動作片愛好者。",
+    "score": 4.6,
+    "poster": ""
+  },
+  {
+    "id": "mission-impossible-fallout",
+    "title": "不可能的任務：全面瓦解",
+    "originalTitle": "Mission: Impossible – Fallout",
+    "type": "movie",
+    "year": 2018,
+    "genres": [
+      "動作",
+      "冒險",
+      "驚悚"
+    ],
+    "synopsis": "伊森韓特與團隊爭分奪秒，阻止可能造成大規模傷害的陰謀。",
+    "recommendation": "實拍特技與緊湊節奏特別過癮，適合週末想看刺激片的人。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "knives-out",
+    "title": "鋒迴路轉",
+    "originalTitle": "Knives Out",
+    "type": "movie",
+    "year": 2019,
+    "genres": [
+      "懸疑",
+      "犯罪",
+      "喜劇"
+    ],
+    "synopsis": "知名推理作家在家中離世，偵探調查時發現每位家人都藏有心事。",
+    "recommendation": "充滿幽默的現代推理，線索公平又不斷帶來驚喜。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "whiplash",
+    "title": "進擊的鼓手",
+    "originalTitle": "Whiplash",
+    "type": "movie",
+    "year": 2014,
+    "genres": [
+      "劇情",
+      "音樂"
+    ],
+    "synopsis": "年輕鼓手進入知名音樂學院，接受嚴苛教師的高壓訓練。",
+    "recommendation": "剪接節奏和表演張力驚人，會讓人反思追求卓越的代價。",
+    "score": 4.9,
+    "poster": ""
+  },
+  {
+    "id": "la-la-land",
+    "title": "樂來越愛你",
+    "originalTitle": "La La Land",
+    "type": "movie",
+    "year": 2016,
+    "genres": [
+      "愛情",
+      "音樂",
+      "劇情"
+    ],
+    "synopsis": "一名女演員與爵士鋼琴家在洛杉磯相遇，追逐各自的夢想。",
+    "recommendation": "繽紛歌舞和現實感交織，適合喜歡浪漫又帶點惆悵的人。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "everything-everywhere-all-at-once",
+    "title": "媽的多重宇宙",
+    "originalTitle": "Everything Everywhere All at Once",
+    "type": "movie",
+    "year": 2022,
+    "genres": [
+      "科幻",
+      "動作",
+      "喜劇"
+    ],
+    "synopsis": "忙碌的洗衣店老闆娘捲入跨越多重宇宙的危機，必須重新面對家庭關係。",
+    "recommendation": "天馬行空的創意背後，藏著對親情和選擇的柔軟凝視。",
+    "score": 4.7,
+    "poster": ""
+  },
+  {
+    "id": "oppenheimer",
+    "title": "奧本海默",
+    "originalTitle": "Oppenheimer",
+    "type": "movie",
+    "year": 2023,
+    "genres": [
+      "劇情",
+      "歷史"
+    ],
+    "synopsis": "物理學家奧本海默在戰時參與原子彈研發，之後面對政治與道德壓力。",
+    "recommendation": "緊湊交錯的時間線讓歷史人物的內心掙扎更鮮明。",
+    "score": 4.8,
+    "poster": ""
+  },
+  {
+    "id": "barbie",
+    "title": "芭比",
+    "originalTitle": "Barbie",
+    "type": "movie",
+    "year": 2023,
+    "genres": [
+      "喜劇",
+      "奇幻",
+      "冒險"
+    ],
+    "synopsis": "住在芭比樂園的芭比開始遇見不尋常的困惑，踏入現實世界尋找答案。",
+    "recommendation": "鮮豔幽默的外表下，藏著對自我與社會角色的討論。",
+    "score": 4.5,
+    "poster": ""
+  },
+  {
+    "id": "poor-things",
+    "title": "可憐的東西",
+    "originalTitle": "Poor Things",
+    "type": "movie",
+    "year": 2023,
+    "genres": [
+      "奇幻",
+      "劇情",
+      "喜劇"
+    ],
+    "synopsis": "一名擁有特殊身世的女子踏上探索世界與自我成長的旅途。",
+    "recommendation": "美術風格奇特，帶有成人向的黑色幽默與自由意志思辨。",
+    "score": 4.5,
+    "poster": ""
+  },
+  {
+    "id": "the-grand-budapest-hotel",
+    "title": "歡迎來到布達佩斯大飯店",
+    "originalTitle": "The Grand Budapest Hotel",
+    "type": "movie",
+    "year": 2014,
+    "genres": [
+      "喜劇",
+      "冒險",
+      "劇情"
+    ],
+    "synopsis": "歐洲山城飯店的禮賓經理與年輕門僮，捲入名畫和遺產引發的事件。",
+    "recommendation": "對稱構圖、鮮明色彩和奇特節奏，是風格派觀眾首選。",
+    "score": 4.8,
+    "poster": ""
+  }
+]

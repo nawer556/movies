@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0B1020" />
+    <meta name="description" content="CineLog 為你精選電影與影集。依片名搜尋、依類型探索，收藏下一部想看的作品。" />
+    <title>CineLog｜發現你的下一部好電影</title>
+    <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <script defer src="./js/startup.js"></script>
+    <script type="module" src="./js/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">跳到主要內容</a>
+    <header class="site-header">
+      <div class="site-container header-inner">
+        <a class="brand" href="./index.html" aria-label="CineLog 首頁">
+          <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span><span></span></span>
+          <span>Cine<span class="brand-accent">Log</span><small>YOUR MOVIE NOTEBOOK</small></span>
+        </a>
+        <nav class="site-nav" aria-label="主要導覽">
+          <a id="nav-explore" class="nav-link is-current" href="./index.html" aria-current="page">探索作品</a>
+          <a id="nav-favorites" class="nav-link nav-favorites" href="./index.html#favorites">收藏清單 <span id="favorite-count" class="count-badge" aria-label="收藏數量">0</span></a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content">
+      <section class="hero" aria-labelledby="hero-heading">
+        <div class="site-container hero-inner">
+          <div class="hero-copy">
+            <p class="eyebrow"><span class="eyebrow-line"></span> CURATED FOR MOVIE LOVERS</p>
+            <h1 id="hero-heading">下一部讓你<br /><em>念念不忘</em>的故事。</h1>
+            <p class="hero-description">好電影不該被片單淹沒。從科幻宇宙到溫暖日常，找到此刻最適合你的故事。</p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="#discover">開始探索 <span aria-hidden="true">↗</span></a>
+              <span class="hero-hint"><span class="hint-dot"></span> 精心挑選，不怕片荒</span>
+            </div>
+            <div class="hero-stats" aria-label="網站作品資訊">
+              <div><strong id="total-works">—</strong><span>精選作品</span></div>
+              <span class="stat-divider" aria-hidden="true"></span>
+              <div><strong id="total-genres">—</strong><span>探索類型</span></div>
+              <span class="stat-divider" aria-hidden="true"></span>
+              <div><strong>100%</strong><span>不暴雷介紹</span></div>
+            </div>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="hero-orbit hero-orbit-one"></div>
+            <div class="hero-orbit hero-orbit-two"></div>
+            <div class="hero-disc"><div class="hero-disc-center"></div></div>
+            <div class="hero-art-caption"><span>COLLECTION NO. 001</span><strong>STORIES<br />WORTH<br />KEEPING.</strong><span>WATCH • FEEL • REMEMBER</span></div>
+            <span class="hero-art-spark hero-art-spark-one">✦</span><span class="hero-art-spark hero-art-spark-two">✧</span>
+          </div>
+        </div>
+      </section>
+
+      <section id="discover" class="discover-section site-container" aria-labelledby="discover-heading">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow section-eyebrow">THE COLLECTION <span class="eyebrow-line"></span></p>
+            <h2 id="discover-heading">為你精選的故事<span class="gold-dot">.</span></h2>
+            <p class="section-subtitle">每一部都有值得被記住的理由。</p>
+          </div>
+          <div class="collection-label" aria-hidden="true">01 / EXPLORE</div>
+        </div>
+
+        <div class="filter-panel" aria-label="搜尋及篩選作品">
+          <div class="filter-top">
+            <div class="search-group">
+              <label for="search-input" class="field-label">搜尋作品</label>
+              <div class="search-input-wrap">
+                <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 5 5"/></svg>
+                <input id="search-input" type="search" name="search" placeholder="搜尋中文／英文片名..." autocomplete="off" />
+                <kbd aria-hidden="true">/</kbd>
+              </div>
+            </div>
+            <div class="genre-group">
+              <label for="genre-select" class="field-label">作品類型</label>
+              <select id="genre-select" name="genre" aria-label="選擇類型"><option value="">所有類型</option></select>
+            </div>
+          </div>
+          <div class="filter-bottom">
+            <div id="type-filters" class="type-filters" role="group" aria-label="作品形式">
+              <button type="button" class="type-filter is-active" data-type="all" aria-pressed="true">全部作品</button>
+              <button type="button" class="type-filter" data-type="movie" aria-pressed="false">電影</button>
+              <button type="button" class="type-filter" data-type="series" aria-pressed="false">影集</button>
+            </div>
+            <p id="result-count" class="result-count" aria-live="polite">正在載入作品…</p>
+          </div>
+        </div>
+
+        <div id="storage-notice" class="inline-notice" role="status" hidden></div>
+        <div id="movie-grid" class="movie-grid" aria-live="off" aria-busy="true"></div>
+        <div id="empty-state" class="empty-state" hidden>
+          <div class="empty-illustration" aria-hidden="true">✦</div>
+          <h3 id="empty-title">找不到符合條件的作品</h3>
+          <p id="empty-description">試試其他片名或重新選擇類型。</p>
+          <button id="reset-filters" class="button button-outline" type="button">清除篩選條件</button>
+        </div>
+        <div id="error-state" class="empty-state" hidden>
+          <div class="empty-illustration" aria-hidden="true">!</div>
+          <h3>作品資料載入失敗</h3>
+          <p>目前無法取得作品清單，請確認網站連線並再試一次。</p>
+          <button id="retry-load" class="button button-outline" type="button">重新載入</button>
+        </div>
+      </section>
+
+      <section class="closing-note site-container" aria-label="關於推薦">
+        <span class="closing-star" aria-hidden="true">✳</span>
+        <div><p class="eyebrow">A LITTLE REMINDER</p><h2>故事永遠不嫌多，<br />只差一部剛好適合你。</h2></div>
+        <span class="closing-number" aria-hidden="true">CINELOG / 2026</span>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-container footer-inner">
+        <div><strong>Cine<span class="brand-accent">Log</span></strong><p>把值得一看的故事，好好收藏。</p></div>
+        <p class="footer-disclaimer">本站推薦分數為編輯主觀評分；概念海報為本站原創示意圖，非官方宣傳海報。作品權利歸原權利人所有。</p>
+      </div>
+    </footer>
+  </body>
+</html>

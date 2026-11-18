@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 720" width="480" height="720" role="img" aria-label="SPIRITED AWAY 原創抽象概念海報">
+      <defs>
+        <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#13363b"/><stop offset="1" stop-color="#5a6871"/></linearGradient>
+        <radialGradient id="light"><stop stop-color="#f1d19b" stop-opacity=".8"/><stop offset="1" stop-color="#f1d19b" stop-opacity="0"/></radialGradient>
+        <linearGradient id="fade" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#13363b" stop-opacity="0"/><stop offset="1" stop-color="#13363b" stop-opacity="1"/></linearGradient>
+      </defs>
+      <rect width="480" height="720" fill="url(#bg)"/>
+      <g>
+        <path d="M70 477V175Q240 52 410 175V477" stroke="#efd3a2" stroke-width="7" fill="#133039" opacity=".8"/>
+        <path d="M96 469V192Q240 92 384 192V469" stroke="#edbc89" stroke-opacity=".5" stroke-width="3" fill="none"/>
+        <circle cx="240" cy="254" r="103" fill="#f1d19b" fill-opacity=".68"/>
+        <path d="M135 410Q240 289 345 410" fill="none" stroke="#fff6d8" stroke-width="4" opacity=".6"/>
+        <g fill="#f5cf9a"><circle cx="112" cy="150" r="8"/><circle cx="352" cy="163" r="8"/><circle cx="320" cy="95" r="5"/></g>
+    </g>
+      <rect x="0" y="445" width="480" height="275" fill="url(#fade)"/>
+      <rect x="26" y="26" width="428" height="668" fill="none" stroke="#f1d19b" stroke-opacity=".37" stroke-width="2"/>
+      <text x="45" y="67" fill="#f1d19b" font-family="Arial, sans-serif" font-size="13" letter-spacing="5" font-weight="700">CINELOG  /  SELECTS</text>
+      <path d="M45 548H435" stroke="#f1d19b" opacity=".8" stroke-width="2"/>
+      <text x="45" y="611" textLength="384.93" lengthAdjust="spacingAndGlyphs" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="800" fill="#ffffff">SPIRITED AWAY</text>
+      <text x="45" y="652" fill="#f1d19b" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">EDITORIAL CONCEPT</text>
+      <text x="435" y="652" text-anchor="end" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">2001</text>
+    </svg>

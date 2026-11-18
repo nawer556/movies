@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 720" width="480" height="720" role="img" aria-label="PARASITE 原創抽象概念海報">
+      <defs>
+        <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#132a27"/><stop offset="1" stop-color="#587566"/></linearGradient>
+        <radialGradient id="light"><stop stop-color="#dbe5cb" stop-opacity=".8"/><stop offset="1" stop-color="#dbe5cb" stop-opacity="0"/></radialGradient>
+        <linearGradient id="fade" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#132a27" stop-opacity="0"/><stop offset="1" stop-color="#132a27" stop-opacity="1"/></linearGradient>
+      </defs>
+      <rect width="480" height="720" fill="url(#bg)"/>
+      <g>
+        <rect x="70" y="124" width="340" height="316" rx="2" fill="#153f3a" stroke="#dbe5cb" stroke-opacity=".55" stroke-width="3"/>
+        <rect x="98" y="148" width="134" height="120" fill="#86a292" opacity=".65"/>
+        <rect x="248" y="148" width="134" height="120" fill="#253f3c"/>
+        <rect x="98" y="283" width="284" height="135" fill="#0b2225"/>
+        <path d="M98 350H382M240 149V418" stroke="#dbe5cb" stroke-opacity=".45" stroke-width="4"/>
+        <path d="M55 450L425 82" stroke="#e9e6c1" stroke-opacity=".45" stroke-width="2"/>
+        <circle cx="240" cy="346" r="43" fill="#e9e6c1" opacity=".12"/>
+    </g>
+      <rect x="0" y="445" width="480" height="275" fill="url(#fade)"/>
+      <rect x="26" y="26" width="428" height="668" fill="none" stroke="#dbe5cb" stroke-opacity=".37" stroke-width="2"/>
+      <text x="45" y="67" fill="#dbe5cb" font-family="Arial, sans-serif" font-size="13" letter-spacing="5" font-weight="700">CINELOG  /  SELECTS</text>
+      <path d="M45 548H435" stroke="#dbe5cb" opacity=".8" stroke-width="2"/>
+      <text x="45" y="611" textLength="367.92" lengthAdjust="spacingAndGlyphs" font-family="Arial, Helvetica, sans-serif" font-size="73" font-weight="800" fill="#ffffff">PARASITE</text>
+      <text x="45" y="652" fill="#dbe5cb" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">EDITORIAL CONCEPT</text>
+      <text x="435" y="652" text-anchor="end" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">2019</text>
+    </svg>

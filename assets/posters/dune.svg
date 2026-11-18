@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 720" width="480" height="720" role="img" aria-label="DUNE 原創抽象概念海報">
+      <defs>
+        <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#49312e"/><stop offset="1" stop-color="#bc7951"/></linearGradient>
+        <radialGradient id="light"><stop stop-color="#f6d0a0" stop-opacity=".8"/><stop offset="1" stop-color="#f6d0a0" stop-opacity="0"/></radialGradient>
+        <linearGradient id="fade" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#49312e" stop-opacity="0"/><stop offset="1" stop-color="#49312e" stop-opacity="1"/></linearGradient>
+      </defs>
+      <rect width="480" height="720" fill="url(#bg)"/>
+      <g>
+        <circle cx="310" cy="185" r="132" fill="#f4d7a5" opacity=".77"/>
+        <path d="M0 380Q185 225 480 351V515H0Z" fill="#6e4136" opacity=".9"/>
+        <path d="M0 442Q180 320 480 380V520H0Z" fill="#ab6750"/>
+        <path d="M0 496Q255 365 480 454V530H0Z" fill="#e2a06c"/>
+        <path d="M-10 310Q180 255 380 305" stroke="#fff1c5" stroke-opacity=".28" stroke-width="4" fill="none"/>
+        <path d="M65 200L130 200" stroke="#f6d0a0" stroke-width="3" opacity=".65"/>
+    </g>
+      <rect x="0" y="445" width="480" height="275" fill="url(#fade)"/>
+      <rect x="26" y="26" width="428" height="668" fill="none" stroke="#f6d0a0" stroke-opacity=".37" stroke-width="2"/>
+      <text x="45" y="67" fill="#f6d0a0" font-family="Arial, sans-serif" font-size="13" letter-spacing="5" font-weight="700">CINELOG  /  SELECTS</text>
+      <path d="M45 548H435" stroke="#f6d0a0" opacity=".8" stroke-width="2"/>
+      <text x="45" y="611" textLength="189.0" lengthAdjust="spacingAndGlyphs" font-family="Arial, Helvetica, sans-serif" font-size="75" font-weight="800" fill="#ffffff">DUNE</text>
+      <text x="45" y="652" fill="#f6d0a0" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">EDITORIAL CONCEPT</text>
+      <text x="435" y="652" text-anchor="end" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">2021</text>
+    </svg>

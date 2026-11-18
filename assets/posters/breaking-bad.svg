@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 720" width="480" height="720" role="img" aria-label="BREAKING BAD 原創抽象概念海報">
+      <defs>
+        <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#1a382d"/><stop offset="1" stop-color="#558d6d"/></linearGradient>
+        <radialGradient id="light"><stop stop-color="#d6ed94" stop-opacity=".8"/><stop offset="1" stop-color="#d6ed94" stop-opacity="0"/></radialGradient>
+        <linearGradient id="fade" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#1a382d" stop-opacity="0"/><stop offset="1" stop-color="#1a382d" stop-opacity="1"/></linearGradient>
+      </defs>
+      <rect width="480" height="720" fill="url(#bg)"/>
+      <g>
+        <path d="M150 160L240 108L330 160V265L240 316L150 265Z" stroke="#d6ed94" stroke-width="4" fill="#1a4c3a" opacity=".84"/>
+        <path d="M150 315L240 263L330 315V420L240 472L150 420Z" stroke="#b0dc93" stroke-width="4" fill="none" opacity=".65"/>
+        <circle cx="240" cy="212" r="38" fill="#d6ed94" opacity=".8"/>
+        <g stroke="#b0dc93" stroke-width="3" opacity=".55"><path d="M120 146L70 110M352 287L412 246M142 449L90 488"/></g>
+        <g fill="#d6ed94"><circle cx="70" cy="110" r="7"/><circle cx="412" cy="246" r="8"/><circle cx="90" cy="488" r="6"/></g>
+    </g>
+      <rect x="0" y="445" width="480" height="275" fill="url(#fade)"/>
+      <rect x="26" y="26" width="428" height="668" fill="none" stroke="#d6ed94" stroke-opacity=".37" stroke-width="2"/>
+      <text x="45" y="67" fill="#d6ed94" font-family="Arial, sans-serif" font-size="13" letter-spacing="5" font-weight="700">CINELOG  /  SELECTS</text>
+      <path d="M45 548H435" stroke="#d6ed94" opacity=".8" stroke-width="2"/>
+      <text x="45" y="611" textLength="355.32" lengthAdjust="spacingAndGlyphs" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="800" fill="#ffffff">BREAKING BAD</text>
+      <text x="45" y="652" fill="#d6ed94" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">EDITORIAL CONCEPT</text>
+      <text x="435" y="652" text-anchor="end" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">2008</text>
+    </svg>
